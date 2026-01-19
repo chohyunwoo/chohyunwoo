@@ -1,4 +1,4 @@
-# 안녕하세요! 저는 조현우입니다.
+<div align= "center"> 안녕하세요! 저는 조현우입니다. </div>
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=Backend%20Softe%20Engineer&animation=scaleIn&fontColor=85ea91&fontSize=70" />
     </div>
