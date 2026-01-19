@@ -1,3 +1,4 @@
+# 안녕하세요! 저는 조현우입니다.
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=Backend%20Softe%20Engineer&animation=scaleIn&fontColor=85ea91&fontSize=70" />
     </div>
@@ -19,6 +20,8 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
           <br/></div>
     </div>
+    ## 🏆 Algorithm
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdndlek12)](https://solved.ac)
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.notion.so/299eaf19306981f5aaeecfa607a6bda7?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/299eaf19306981f5aaeecfa607a6bda7?source=copy_link"> </a>
