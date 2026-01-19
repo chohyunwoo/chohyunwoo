@@ -24,7 +24,7 @@
     🏆 Algorithm Problem Solving
   </h2>
   <br/>
-  <a href="https://solved.ac/rlaghwlq12">
+  <a href="https://solved.ac/gusdndlek12">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?gusdndlek12" />
   </a>
 </div>
