@@ -19,6 +19,15 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
           <br/></div>
     </div>
+    <div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+    🏆 Algorithm Problem Solving
+  </h2>
+  <br/>
+  <a href="https://solved.ac/rlaghwlq12">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?gusdndlek12" />
+  </a>
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:gusdndlek12@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusdndlek12@gmail.com"> </a>
